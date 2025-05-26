@@ -73,4 +73,33 @@ Copy
 Edit
 streamlit run app.py
 
+🧰 Tech Stack
+Layer	Tech Used
+UI Framework	Streamlit
+LLM Engine	OpenAI GPT-3.5
+Diagram	Mermaid.js via streamlit-mermaid
+Styling	Custom HTML + CSS
+
+🧪 Output Includes
+🔹 ETL Plan with markdown headers
+🔹 Mermaid DAG rendered inside app
+🔹 Expandable raw OpenAI output
+🔹 Modular, extensible layout
+
+🌐 Roadmap (Coming Soon)
+ Streamlit Cloud deployment
+ Export config as downloadable .yaml / .sql
+ Interactive DAG editing
+ Lottie AI assistant animation
+ API endpoint version
+
+👨‍💻 Author
+Built by @jugalsheth
+🧠 Data engineer by trade, GenAI tinkerer by night.
+
+💬 Feedback & Contributions
+Feel free to open an issue or suggest a feature.
+If you found this useful, ⭐️ star the repo or share it!
+
+
 
